@@ -1,5 +1,5 @@
 import { Component } from '@angular/core';
-import { Wallet } from 'projects/shell/src';
+import { Wallet } from '@shell';
 
 @Component({
   standalone: true,

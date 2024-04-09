@@ -14,7 +14,7 @@
     "lib": ["es2018", "dom"],
     "useDefineForClassFields": false,
     "paths": {
-      "@shell": ["/projects/shell/src/index.ts"]
+      "@shell": ["projects/shell/src/index.ts"]
     }
   }
 }

@@ -8,7 +8,7 @@ import {
   ViewChild,
   ViewContainerRef,
 } from '@angular/core';
-import { Wallet } from './wallet.model';
+import { Wallet } from '@shell';
 
 @Component({
   standalone: true,
